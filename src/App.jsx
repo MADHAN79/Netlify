@@ -2,7 +2,7 @@
 
 const App = () => {
   return (
-    <div>MADHAN</div>
+    <div>MADHAN Mobile Responsive</div>
   )
 }
 
